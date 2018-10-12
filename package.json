@@ -1,0 +1,11 @@
+{
+  "name": "pgp-data",
+  "version": "1.0.0",
+  "description": "Pokemon Go Edmonton gym data.",
+  "author": "gobalopper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/gobalopper/PgP-Data"
+  },
+  "license": "GPLv3"
+}

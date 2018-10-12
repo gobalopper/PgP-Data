@@ -1,0 +1,91 @@
+{
+  "central-north": [
+    "central-south",
+    "downtown-legislature",
+    "east",
+    "macewan",
+    "north",
+    "whyte-ave",
+    "uofa"
+  ],
+  "central-south": [
+    "central-north",
+    "east",
+    "south-west",
+    "south-east",
+    "west",
+    "whyte-ave",
+    "uofa"
+  ],
+  "downtown-legislature": [
+    "central-north",
+    "east",
+    "macewan",
+    "whyte-ave",
+    "uofa"
+  ],
+  "east": [
+    "central-north",
+    "central-south",
+    "downtown-legislature",
+    "north",
+    "south-east",
+    "whyte-ave",
+    "sherwood-park"
+  ],
+  "macewan": [
+    "central-north",
+    "downtown-legislature"
+  ],
+  "north": [
+    "central-north",
+    "east",
+    "west",
+    "st-albert",
+    "sherwood-park"
+  ],
+  "south-west": [
+    "central-south",
+    "south-east",
+    "west"
+  ],
+  "south-east": [
+    "central-south",
+    "east",
+    "south-west",
+    "sherwood-park"
+  ],
+  "west": [
+    "central-south",
+    "north",
+    "south-west"
+  ],
+  "whyte-ave": [
+    "central-north",
+    "central-south",
+    "downtown-legislature",
+    "east",
+    "uofa"
+  ],
+  "uofa": [
+    "central-north",
+    "central-south",
+    "downtown-legislature",
+    "whyte-ave"
+  ],
+  "st-albert": [
+    "north"
+  ],
+  "sherwood-park": [
+    "east",
+    "north",
+    "south-east"
+  ],
+  "beaumont": [],
+  "fort-sask": [],
+  "spruce-grove": [],
+  "stony-plain": [],
+  "morinville": [],
+  "devon": [],
+  "leduc": []
+}
