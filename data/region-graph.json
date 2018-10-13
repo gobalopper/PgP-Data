@@ -5,6 +5,7 @@
     "east",
     "macewan",
     "north",
+    "west",
     "whyte-ave",
     "uofa"
   ],
@@ -56,6 +57,7 @@
     "sherwood-park"
   ],
   "west": [
+    "central-north",
     "central-south",
     "north",
     "south-west"
