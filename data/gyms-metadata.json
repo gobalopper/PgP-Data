@@ -8,7 +8,8 @@
         "hasExTag": true
     },
     "0610f4e35b5c46569ba93986a5eb4d37.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "0add7f1382914edd9218f97716cd51d0.16": {
         "hasExTag": true
@@ -20,7 +21,8 @@
         "hasExTag": true
     },
     "0fc3826391bf42609383620c125222d3.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "13e17e706b6c415394defe3622ed5a77.16": {
         "additionalTerms": "BLVD"
@@ -51,7 +53,8 @@
         "hasExTag": true
     },
     "236229ade3a64c5bb1b333577cf84d5b.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "23eb930a4507439d8be1adbb52d58247.16": {
         "hasExTag": true
@@ -69,7 +72,8 @@
         "hasExTag": true
     },
     "2acc3f9167624f71bb9b3027fe6d69f1.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "2d6f19c0f76f4721bb5e1bf40bde9068.16": {
         "hasExTag": true,
@@ -111,7 +115,8 @@
         "hasExTag": true
     },
     "4c1b37bd996a4a9dace2d6182348a6ae.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "4c3e3635302349b8999173567e8d594c.16": {
         "hasExTag": true
@@ -140,7 +145,8 @@
         "hasExTag": true
     },
     "53518530113322685": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "53537181113517685": {
         "hasExTag": true
@@ -158,7 +164,8 @@
         "hasExTag": true
     },
     "5b5c3692035441199ce225244631600a.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "5c08439bfa4547a5acdeec3dc7930935.16": {
         "hasExTag": true
@@ -252,7 +259,8 @@
         "hasHostedEx": true
     },
     "83d4995b0a8b4343adeff28ffa2b1822.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "855c053b61e24bb9af9c5cb3c76aca04.16": {
         "hasExTag": true
@@ -355,7 +363,8 @@
         "hasExTag": true
     },
     "bd8b8dc5c4884161819980c6c9b99459.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "c28dbc02dbe04f649636b73a0b47189b.16": {
         "hasExTag": true
@@ -400,7 +409,8 @@
         "hasExTag": true
     },
     "dd9ecda99ae54cdf86bb0023ad720f83.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "e419f9b44b1e42ee8c94e99c6cc0692c.16": {
         "additionalTerms": "ABJ"
@@ -425,7 +435,8 @@
         "nickname": "Presbyterian Church"
     },
     "f980745e83fb48728267dffc11aef0eb.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "f9e7f93318364512ba243204e3d24099.16": {
         "nickname": "Mactaggart Twin Brooks"
