@@ -30,6 +30,9 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "115df79731144ac7b83b915917d4e1c0.16": {
+        "additionalTerms": "WCC"
+    },
     "13e17e706b6c415394defe3622ed5a77.16": {
         "additionalTerms": "BLVD"
     },
@@ -117,6 +120,9 @@
     "45e9f8d32f4b4026bc42c9804ddad4ff.16": {
         "hasExTag": true,
         "hasHostedEx": true
+    },
+    "0ecd6709c0f147d385cf6672201bd254.16": {
+        "additionalTerms": "STP"
     },
     "4928b0645d914a089b360b72f3e315de.16": {
         "hasExTag": true,
