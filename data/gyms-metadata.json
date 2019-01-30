@@ -364,7 +364,7 @@
         "hasExTag": true
     },
     "9bc7075acbfe44feb396099d3eace8e7.16": {
-        "additionalTerms": "Fountain Park"
+        "nickname": "Fountain Park"
     },
     "9d4d708c5b824b7cae1535db873e88ef.16": {
         "hasExTag": true
@@ -525,7 +525,8 @@
         "hasHostedEx": true
     },
     "f9e7f93318364512ba243204e3d24099.16": {
-        "nickname": "Mactaggart Twin Brooks"
+        "nickname": "Mactaggart Twin Brooks",
+        "additionalTerms": "Mactaggart 119 Street"
     },
     "ffb06c3313784a13b2d00c7a3779b985.16": {
         "additionalTerms": "Jackie Parker Sign",
