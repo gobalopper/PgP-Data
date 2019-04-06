@@ -153,6 +153,7 @@
         "hasHostedEx": true
     },
     "4ce7ad8f0ba745ae9e2e236ddd516e12.16": {
+        "additionalTerms": "Twm Brooks Park",
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -191,7 +192,8 @@
         "hasHostedEx": true
     },
     "55c03bde0d3f453788562c923d0f50f0.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "5b2737287f844a81a989754c6b6551eb.11": {
         "hasExTag": true
@@ -374,7 +376,8 @@
         "hasExTag": true
     },
     "9e2e529df52743e3a0fbc2f6b19227d0.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "a4508daf812041af8b7f3d1d14c1d902.16": {
         "hasExTag": true
@@ -431,6 +434,9 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "b99d2986603c4fc4b906827f03fe4af5.16": {
+        "hasExTag": true
+    },
     "bc344a98425742b4a5a9ed4823671759.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -455,6 +461,10 @@
         "hasExTag": true
     },
     "c3e6c324e33c48b7be99b04b712a9600.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "c7b3b872ebb44880ad86a61388e60d0b.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -526,6 +536,10 @@
     },
     "ec219178ef6c4a91bcd286da71525bf0.16": {
         "nickname": "Presbyterian Church"
+    },
+    "f3ffb6931b954496a86466f31c0d8132.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "f980745e83fb48728267dffc11aef0eb.16": {
         "hasExTag": true,
