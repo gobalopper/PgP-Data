@@ -60,7 +60,11 @@
     "central-north",
     "central-south",
     "north",
-    "south-west"
+    "south-west",
+    "wem"
+  ],
+  "wem": [
+    "west"
   ],
   "whyte-ave": [
     "central-north",
