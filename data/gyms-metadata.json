@@ -27,6 +27,9 @@
     "0ce270b195d14fe89c429ba63435f0f2.16": {
         "nickname": "Cenotaph"
     },
+    "0ecd6709c0f147d385cf6672201bd254.16": {
+        "additionalTerms": "STP"
+    },
     "0f360a5dc3d649a1942c62a1fd93f867.16": {
         "hasExTag": true
     },
@@ -59,6 +62,10 @@
         "hasExTag": true
     },
     "1a3935fa36754d5fbf006ca1aa1682c6.11": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "1b3bef964db742acb5c7af5d7c4e80e4.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -140,6 +147,13 @@
     "45742894c41540238c40758069e1a9c9.16": {
         "hasExTag": true
     },
+    "4579f5cbbec64b7bbb53f0786b1c8b34.16": {
+        "nickname": "Summerside Playground"
+    },
+    "4587e6b39cab4e04aa7515dba27d17bc.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "45de586dfd674f7288f178d965fcec59.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -151,9 +165,6 @@
     "47fe84fc30634c40b2c6e374fe1b04cc.16": {
         "hasExTag": true,
         "hasHostedEx": true
-    },
-    "0ecd6709c0f147d385cf6672201bd254.16": {
-        "additionalTerms": "STP"
     },
     "4928b0645d914a089b360b72f3e315de.16": {
         "hasExTag": true,
@@ -195,27 +206,7 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
-    "4579f5cbbec64b7bbb53f0786b1c8b34.16": {
-        "nickname": "Summerside Playground"
-    },
-    "4587e6b39cab4e04aa7515dba27d17bc.16": {
-        "hasExTag": true,
-        "hasHostedEx": true
-    },
     "4ff7a243960a403b85a02a7042c83e20.16": {
-        "hasExTag": true,
-        "hasHostedEx": true
-    },
-    "db9e1b31bbcc45caab91b72fcaa7ebc0.16": {
-        "additionalTerms": "Jackie Parker Dog Park",
-        "hasExTag": true,
-        "hasHostedEx": true
-    },
-    "e6539f750f8b4e2b8716ed4ed88496b6.16": {
-        "hasExTag": true,
-        "hasHostedEx": true
-    },
-    "1b3bef964db742acb5c7af5d7c4e80e4.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -575,6 +566,11 @@
     "d752a79f32c24805a9c0f34e2c1b8de3.16": {
         "hasExTag": true
     },
+    "db9e1b31bbcc45caab91b72fcaa7ebc0.16": {
+        "additionalTerms": "Jackie Parker Dog Park",
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "dd0024b8a874426ea9279dfd20be2026.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -585,6 +581,10 @@
     },
     "e419f9b44b1e42ee8c94e99c6cc0692c.16": {
         "additionalTerms": "ABJ"
+    },
+    "e6539f750f8b4e2b8716ed4ed88496b6.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "e4f08ee79f0246888da9aca824309361.16": {
         "hasExTag": true,
