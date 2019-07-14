@@ -37,8 +37,16 @@
     "115df79731144ac7b83b915917d4e1c0.16": {
         "additionalTerms": "WCC"
     },
+    "134d69a35b3c48dc8531ddb8679bc5f6.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "13e17e706b6c415394defe3622ed5a77.16": {
         "additionalTerms": "BLVD"
+    },
+    "1463e357e029411f833efbc91948890b.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "1532409b2ff542f99b6fc264f80bd801.16": {
         "nickname": "NINT"
@@ -96,6 +104,10 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "346d4b9cdc464035b5f661d539e2390e.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "34b584a75a9541ad9848e1000194eeed.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -114,6 +126,10 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "418baa0c387f41759c60ce9da8ef56e0.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "42c34424a67445c09133117663855cbc.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -124,7 +140,15 @@
     "45742894c41540238c40758069e1a9c9.16": {
         "hasExTag": true
     },
+    "45de586dfd674f7288f178d965fcec59.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "45e9f8d32f4b4026bc42c9804ddad4ff.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "47fe84fc30634c40b2c6e374fe1b04cc.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -401,6 +425,10 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "a416be3c9e3d47eea98ee2ce88467f0e.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "a4508daf812041af8b7f3d1d14c1d902.16": {
         "hasExTag": true
     },
@@ -461,8 +489,16 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "b8402127f91646adac5ec0efe455feb4.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "b99d2986603c4fc4b906827f03fe4af5.16": {
         "hasExTag": true
+    },
+    "bb911d53df1b4fa596a7b7629232de22.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "bc344a98425742b4a5a9ed4823671759.16": {
         "hasExTag": true,
@@ -492,6 +528,14 @@
         "hasHostedEx": true
     },
     "c7b3b872ebb44880ad86a61388e60d0b.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "caa11fa9907e4559b1dddc5962cc4429.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "cac05faf928b4efeb9e738d8fabf4bb0.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -542,6 +586,10 @@
     "e419f9b44b1e42ee8c94e99c6cc0692c.16": {
         "additionalTerms": "ABJ"
     },
+    "e4f08ee79f0246888da9aca824309361.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "e7581e26c066431aa4ecf51292ea0c12.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -566,6 +614,10 @@
     },
     "ec219178ef6c4a91bcd286da71525bf0.16": {
         "nickname": "Presbyterian Church"
+    },
+    "ec3b860320424778ab3a3cc9e2c838a8.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "f1f4e26a429f484c9287fdbaf98f973d.16": {
         "hasExTag": true,
