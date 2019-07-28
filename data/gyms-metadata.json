@@ -58,6 +58,10 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "18133419ef5c47929bbe56800ab8455f.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "183ba93616344d879bd94db6b0561382.16": {
         "hasExTag": true
     },
@@ -88,7 +92,8 @@
         "hasHostedEx": true
     },
     "23eb930a4507439d8be1adbb52d58247.16": {
-        "hasExTag": true
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "24ddec3bd9ee459a88087b70655b949c.16": {
         "hasExTag": true,
@@ -230,6 +235,14 @@
     },
     "5c08439bfa4547a5acdeec3dc7930935.16": {
         "hasExTag": true
+    },
+    "5e56d5dbbfbc426aa12eea7a8ff46a56.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "5f420113b1d947a698b0935349badca6.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
     },
     "5faae8dc7c854e95ade72658ce6a4e5f.11": {
         "hasExTag": true,
@@ -471,12 +484,20 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "b3b17e61779c4eedb50e06e7f898aaed.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "b52be287690b4d7695517b32df27960f.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
     "b6e3e77b9b1a42138a7079482440f03c.12": {
         "additionalTerms": "Jackie Parker Pavilion",
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "b6ebbc76f281496281f9fa6e7d95875e.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
@@ -541,6 +562,10 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "d28234c6df864cd8b332e73de6359aba.11": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
     "d2b9e0f7382e4cdab9e9f53d0f6c5353.16": {
         "hasExTag": true,
         "hasHostedEx": true
@@ -579,14 +604,18 @@
         "hasExTag": true,
         "hasHostedEx": true
     },
-    "e419f9b44b1e42ee8c94e99c6cc0692c.16": {
-        "additionalTerms": "ABJ"
-    },
-    "e6539f750f8b4e2b8716ed4ed88496b6.16": {
+    "e02ecb4db50141499560d21a3b0d9da8.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
+    "e419f9b44b1e42ee8c94e99c6cc0692c.16": {
+        "additionalTerms": "ABJ"
+    },
     "e4f08ee79f0246888da9aca824309361.16": {
+        "hasExTag": true,
+        "hasHostedEx": true
+    },
+    "e6539f750f8b4e2b8716ed4ed88496b6.16": {
         "hasExTag": true,
         "hasHostedEx": true
     },
